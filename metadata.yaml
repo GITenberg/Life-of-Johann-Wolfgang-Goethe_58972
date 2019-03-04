@@ -1,11 +1,16 @@
 _repo: Life-of-Johann-Wolfgang-Goethe_58972
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58972-h/images/cover.jpg
 creator:
   author:
     agent_name: Sime, James
     gutenberg_agent_id: '50242'
     url: http://www.gutenberg.org/2009/agents/50242
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58972#Life-of-Johann-Wolfgang-Goethe
 gutenberg_issued: '2019-02-27'
 gutenberg_type: Text
 identifiers:
