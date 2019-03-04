@@ -1,0 +1,20 @@
+_repo: Life-of-Johann-Wolfgang-Goethe_58972
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sime, James
+    gutenberg_agent_id: '50242'
+    url: http://www.gutenberg.org/2009/agents/50242
+description: ''
+gutenberg_issued: '2019-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58972'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Life of Johann Wolfgang Goethe
+url: http://www.gutenberg.org/ebooks/58972
